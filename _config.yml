@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuzhe Song / Site Title"
+title                    : "Yuzhe Song's Personal Name"
 title_separator          : "-"
 name                     : &name "Yuzhe Song"
 description              : &description "Physics PhD student at CUNY Graduate Center and American Museum of Natural History"
