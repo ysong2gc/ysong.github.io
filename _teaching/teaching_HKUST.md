@@ -1,5 +1,5 @@
 ---
-title: "IA at HKUST"
+title: "Instructional Assisstant at Hong Kong University of Science and Technology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching_HKUST
@@ -8,13 +8,13 @@ date: 2016-09-01
 location: "Hong Kong"
 ---
 
-Teaching experience while I was a full-time Instructional Assitant at the HKUST.
+Teaching experience as a full-time Instructional Assitant at the HKUST.
 
-Heading 1
+Fall 2016
 ======
+General Physics with Calculus (PHYS1112), Modern Physics Laboratory (PHYS2023), Electricity & Magnetism (PHYS3033)
 
-Heading 2
+Spring 2017
 ======
+General Physics with Calculus (PHYS1112), Modern Physics Laboratory (PHYS2023), Capstone Project (PHYS4191), Energy & Related Environmental Issues (PHYS1003)
 
-Heading 3
-======
