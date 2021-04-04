@@ -8,9 +8,7 @@ date: 2018-08-25
 location: "New York"
 ---
 
-Adjunct Lecturer at CUNY York College.
-
-I developed a zero-cost, open-access syllabus for Introductory Astronomy Lab (ASTR141), learn more about it [here](https://astronomy141.commons.gc.cuny.edu/).
+Adjunct Lecturer at CUNY York College. I developed a zero-cost, open-access syllabus for Introductory Astronomy Lab (ASTR141), learn more about it [here](https://astronomy141.commons.gc.cuny.edu/).
 
 Fall 2018
 ======
