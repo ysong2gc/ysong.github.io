@@ -41,8 +41,7 @@ Publications
 Talks
 ======
   <ul>{% assign sorted = site.talks | sort: 'date' | reverse %}
-    {% for item in sorted %}
-    <li>{{ item.title }}</li>
+    {% for item in sorted %}<li>{{ item.title }}</li>
   {% endfor %}</ul>
   
   
