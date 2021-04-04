@@ -3,7 +3,7 @@ title: "Teaching Assistant at the University of Hong Kong"
 collection: teaching
 type: "Undergraduate Courses"
 permalink: /teaching/teaching-HKU
-venue: "Department of Physics, the University of Hong Kong"
+venue: "Dept. of Physics, the University of Hong Kong"
 date: 2014-09-01
 location: "Hong Kong"
 ---
