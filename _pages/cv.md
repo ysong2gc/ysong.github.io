@@ -13,9 +13,9 @@ For a pdf version of the CV in NSF style, please see [here](https://github.com/y
 
 Education
 ======
-* B.Sc. in Astronomy, Nanjing University, 2014
-* M.Phil. in Astrophysics, the University of Hong Kong, 2016
 * Ph.D in Physics, CUNY Graduate Center, 2022 (expected)
+* M.Phil. in Astrophysics, the University of Hong Kong, 2016
+* B.Sc. in Astronomy, Nanjing University, 2014
 
 Work experience
 ======
