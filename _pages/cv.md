@@ -63,4 +63,4 @@ Service and leadership
 
 Full NSF-Style CV
 ======
-* For a pdf version of the CV in NSF style, please see [here](http://ysong2gc.github.io/files/YuzheSong_CV_NSF.pdf).
+* For a pdf version of the CV in NSF style, please see [here](https://github.com/ysong2gc/ysong.github.io/blob/master/files/YuzheSong_CV_NSF.pdf).
