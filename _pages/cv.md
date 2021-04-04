@@ -32,20 +32,12 @@ Work experience
 * Summer 2019 - Current: Workshop Coordinator
   * AstroCom NYC
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>for post in site.publications 
-    nclude archive-single-cv.html
-  endfor </ul>
+  <ul>{% for post in site.publications %}
+    {% nclude archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
@@ -63,3 +55,11 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
