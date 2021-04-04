@@ -64,7 +64,7 @@ Service and leadership
 * Jan 2020: Current: Astrophysics Seminar Committee, Department of Astrophysics, American Museum of Natural History
 * Summer 2019 - Current: Peer mentor for AstroCom scholars
 * July 2012: Volunteer for the 28th Intenational Astronomical Union General Assembly in Beijing
-* Sep 2011 - Jun 2012: President of the Astronomical Association of Nanjing University
+* Sep 2011 - Jun 2012: Chair of the Astronomical Association of Nanjing University
 
 
 Skills
