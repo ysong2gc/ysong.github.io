@@ -69,9 +69,5 @@ Service and leadership
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming in Python, IDL, Fortran and C++.
+* Languages: Native speaker of Mandarin, fluent in English.
