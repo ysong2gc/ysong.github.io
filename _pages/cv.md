@@ -60,3 +60,7 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Full NSF-Style CV
+======
+* For a pdf version of the CV in NSF style, please see [here](http://ysong2gc.github.io/files/YuzheSong_CV_NSF.pdf).
