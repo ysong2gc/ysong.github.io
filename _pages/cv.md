@@ -42,6 +42,7 @@ Talks
 ======
   <ul>{% assign sorted = site.talks | sort: 'date' | reverse %}
     {% for item in sorted %}<li>{{ item.title }}</li>
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
