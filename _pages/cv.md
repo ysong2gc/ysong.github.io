@@ -23,11 +23,12 @@ Work experience
 
 * 2016-2017: Instructional Assistant
   * Hong Kong University of Science and Technology
-  * Supervisor: Prof. Brad Foreman
 
-* 2018 - Current: Adjunct Lecturer
+* Fall 2018 - Current: Adjunct Lecturer
   * CUNY York College
-  * Supervisor: Prof. Timothy Paglione 
+
+* Summer 2019 - Current: Workshop Coordinator
+  * AstroCom NYC
 
 Skills
 ======
