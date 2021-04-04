@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+For a pdf version of the CV in NSF style, please see [here](https://github.com/ysong2gc/ysong.github.io/raw/master/files/YuzheSong_CV_NSF.pdf).
+
 Education
 ======
 * B.Sc. in Astronomy, Nanjing University, 2014
@@ -61,6 +63,3 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-Full NSF-Style CV
-======
-* For a pdf version of the CV in NSF style, please see [here](https://github.com/ysong2gc/ysong.github.io/raw/master/files/YuzheSong_CV_NSF.pdf).
