@@ -1,7 +1,7 @@
 ---
 title: "TA at HKU"
 collection: teaching
-type: "TA"
+type: "TA Undergraduate Courses"
 permalink: /teaching/teaching-HKU
 venue: "Department of Physics, the University of Hong Kong"
 date: 2014-09-01
