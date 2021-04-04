@@ -1,5 +1,5 @@
 ---
-title: "TA"
+title: "TA at HKU"
 collection: teaching
 type: "TA"
 permalink: /teaching/teaching-HKU
@@ -8,20 +8,20 @@ date: 2014-09-01
 location: "Hong Kong"
 ---
 
-TA experience during my study at the University of Hong Kong
+Courses I was a TA during my study at the University of Hong Kong
 
 Fall 2014
 ======
-Fundamental Physics
+Fundamental Physics (PHYS1250)
 
 Spring 2015
 ======
-Cosmology
+Cosmology (PHYS3034/4653)
 
 Fall 2015
 ======
-Physics by Inquiry, Selected Topics in Astrophysics
+Physics by Inquiry (PHYS1240), Selected Topics in Astrophysics (PHYS4651)
 
 Spring 2015
 ======
-Introduction to Relativity
+Introduction to Relativity (PHYS1304/2055)
