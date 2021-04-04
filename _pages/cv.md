@@ -34,14 +34,15 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
   <ul>{% assign sorted = site.talks | sort: 'date' | reverse %}
-    {% for collection_name_item in sorted %}<li>{{ item.title }}</li>
+    {% for item in sorted %}
+    <li>{{ item.title }}</li>
   {% endfor %}</ul>
   
   
@@ -54,10 +55,10 @@ Teaching
 Grants & Awards
 ======
 * 2021: Early Research Initiative Pre-Dissertation Science Research Award
-* 2021 & 2019: CUNY Doctoral Student Research Grant, Round 14 & 16
 * 2020: CUNY Graduate Center Award for Excellence in Teaching
 * 2020: CUNY Graduate Center Open Pedagogy Fellow
 * 2020: FAMOUS Travel Grant for the 235th Meeting of the American Astronomical Society 
+* 2019 & 2021: CUNY Doctoral Student Research Grant, Round 14 & 16
 
 Service and leadership
 ======
