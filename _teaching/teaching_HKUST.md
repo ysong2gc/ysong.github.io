@@ -3,7 +3,7 @@ title: "Instructional Assisstant at Hong Kong University of Science and Technolo
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching_HKUST
-venue: "Department of Physics, Hong Kong University of Science and Technology"
+venue: "Dept. of Physics, Hong Kong University of Science and Technology"
 date: 2016-09-01
 location: "Hong Kong"
 ---
