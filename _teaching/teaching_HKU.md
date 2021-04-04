@@ -1,5 +1,5 @@
 ---
-title: "TA at HKU"
+title: "Teaching Assistant at the University of Hong Kong"
 collection: teaching
 type: "TA Undergraduate Courses"
 permalink: /teaching/teaching-HKU
@@ -8,7 +8,7 @@ date: 2014-09-01
 location: "Hong Kong"
 ---
 
-Courses I was a TA during my study at the University of Hong Kong
+TA experience during my study at the University of Hong Kong.
 
 Fall 2014
 ======
