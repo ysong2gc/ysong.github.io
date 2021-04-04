@@ -40,9 +40,11 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% assign sorted = site.talks | sort: 'date' | reverse %}
+    {% for item in sorted %}
+    <li>{{ item.title }}</li>
   {% endfor %}</ul>
+  
   
 Teaching
 ======
