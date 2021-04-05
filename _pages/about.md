@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Yuzhe Song is a PhD student at the Graduate Center, City Unversity of New York and the American Museum of Natural History. His main research focus for his thesis is on Gamma-ray astrophysics. He uses Fermi data to detect faint gamma-ray sources with stacking methods. 
+Yuzhe Song is a PhD student at the Graduate Center, City Unversity of New York and the American Museum of Natural History. His main research focus for his thesis is Gamma-ray astrophysics, using Fermi data to detect faint gamma-ray sources with stacking methods. 
 
