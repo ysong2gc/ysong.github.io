@@ -9,3 +9,7 @@ redirect_from:
 ---
 
 Yuzhe Song (宋宇哲) is a PhD student at the Graduate Center, City Unversity of New York and the American Museum of Natural History. The main research focus for his thesis is gamma-ray astrophysics, using Fermi-LAT data to detect faint gamma-ray sources with stacking methods. 
+
+About the Name
+======
+The name in Chinese, 宇哲，has a special meaning. The character 宇 means the Universe, and 哲 means philosophy. Together it can be interpreted as the "philosophy of the Universe". 
