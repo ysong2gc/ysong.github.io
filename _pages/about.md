@@ -12,4 +12,4 @@ Yuzhe Song (宋宇哲) is a PhD student at the Graduate Center, City Unversity o
 
 About the Name
 ======
-The name in Chinese, 宇哲，has a special meaning. The character 宇 means the Universe, and 哲 means philosophy. Together it can be interpreted as the "philosophy of the Universe". 
+The name Yuzhe in Chinese, 宇哲，has a special meaning. The character 宇(Yu) means the Universe, and 哲(Zhe) means philosophy. Together it can be interpreted as the "philosophy of the Universe". 
