@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a pdf version of the CV in NSF style, please see [here](https://github.com/ysong2gc/ysong.github.io/raw/master/files/YuzheSong_CV_NSF.pdf).
+**For a pdf version of the CV in NSF style, please see [here](https://github.com/ysong2gc/ysong.github.io/raw/master/files/YuzheSong_CV_NSF.pdf).**
 
 Education
 ======
