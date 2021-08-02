@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**For a pdf version of the CV in NSF style, please see [here](https://github.com/ysong2gc/ysong.github.io/raw/master/files/YuzheSong_CV_NSF.pdf).**
+**For a pdf version of the CV in NSF style, please see [here](https://github.com/ysong2gc/ysong.github.io/raw/master/files/YSong_CV.pdf).**
 
 Education
 ======
@@ -53,6 +53,7 @@ Teaching
   
 Grants & Awards
 ======
+* 2021: Honorable Mention, Chambliss Astronomy Student Achievement Award, 238thMeeting of theAmerican Astronomical Society
 * 2021: Early Research Initiative Pre-Dissertation Science Research Award
 * 2020: CUNY Graduate Center Award for Excellence in Teaching
 * 2020: CUNY Graduate Center Open Pedagogy Fellow
