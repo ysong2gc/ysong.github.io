@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Physics, CUNY Graduate Center, 2022 (expected)
+  * M.Phil, CUNY Graduate Center, 2021  
 * M.Phil. in Astrophysics, the University of Hong Kong, 2016
 * B.Sc. in Astronomy, Nanjing University, 2014
 
