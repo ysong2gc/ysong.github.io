@@ -8,7 +8,7 @@ date: 2016-09-01
 location: "Hong Kong"
 ---
 
-Teaching experience as a full-time Instructional Assitant at the HKUST.
+Teaching as a full-time Instructional Assitant at the HKUST.
 
 Fall 2016
 ======
