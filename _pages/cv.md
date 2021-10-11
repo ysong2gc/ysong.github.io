@@ -54,6 +54,7 @@ Teaching
   
 Grants & Awards
 ======
+* 2021: CUNY Graduate Center Science Communication Fellow
 * 2021: Honorable Mention, Chambliss Astronomy Student Achievement Award, 238thMeeting of theAmerican Astronomical Society
 * 2021: Early Research Initiative Pre-Dissertation Science Research Award
 * 2020: CUNY Graduate Center Award for Excellence in Teaching
