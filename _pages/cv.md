@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Summer 2019 - Current: Workshop Coordinator
+* Summer 2019 - Summer 2021: Workshop Coordinator
   * AstroCom NYC
 
 * Fall 2018 - Current: Adjunct Lecturer
