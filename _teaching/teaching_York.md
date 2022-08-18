@@ -37,3 +37,7 @@ Introductory Astronomy Lab (ASTR141)
 Fall 2021
 ======
 Physics Lab (PHYS113), Introductory Astronomy Lab (ASTR141)
+
+Spring 2022
+======
+Introductory Astronomy Lab (ASTR141)
