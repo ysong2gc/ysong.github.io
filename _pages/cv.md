@@ -13,23 +13,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Physics, CUNY Graduate Center, 2022 (expected)
+* Ph.D in Physics, CUNY Graduate Center, 2022
   * M.Phil, CUNY Graduate Center, 2021  
 * M.Phil. in Astrophysics, the University of Hong Kong, 2016
 * B.Sc. in Astronomy, Nanjing University, 2014
 
 Work experience
 ======
-* Summer 2019 - Summer 2021: Workshop Coordinator
+* May 2019 - Aug 2021: Workshop Coordinator
   * AstroCom NYC
 
-* Fall 2018 - Current: Adjunct Lecturer
+* Aug 2018 - May 2022: Adjunct Lecturer
   * CUNY York College
 
 * 2016-2017: Instructional Assistant
   * Hong Kong University of Science and Technology
 
-* Summer 2013: Research Assistant
+* July 2013: Research Assistant
   * National Astronomical Observatories of China
   * Supervisor: Prof. Di Li
 
@@ -54,6 +54,7 @@ Teaching
   
 Grants & Awards
 ======
+* 2021: CUNY Academy Adjunct Faculty Travel Award
 * 2021: CUNY Graduate Center Amie James Science Conference Travel Award
 * 2021: CUNY Graduate Center Science Communication Fellow
 * 2021: Honorable Mention, Chambliss Astronomy Student Achievement Award, 238thMeeting of theAmerican Astronomical Society
@@ -63,11 +64,11 @@ Grants & Awards
 * 2020: FAMOUS Travel Grant for the 235th Meeting of the American Astronomical Society 
 * 2019 & 2021: CUNY Doctoral Student Research Grant, Round 14 & 16
 
-Service and leadership
+Service and Leadership
 ======
 * June 2021 - Current: Committee for Sexual-Orientation & Gender Minorities in Astrsonomy, American Astronomical Society 
-* January 2020 - Current: Astrophysics Seminar Committee, Department of Astrophysics, American Museum of Natural History
-* Summer 2019 - Current: Peer mentor for AstroCom scholars
+* January 2020 - May 2022: Astrophysics Seminar Committee, Department of Astrophysics, American Museum of Natural History
+* Summer 2019 - Aug 2021: Peer mentor for AstroCom scholars
 * July 2012: Volunteer for the 28th Intenational Astronomical Union General Assembly in Beijing
 * Sep 2011 - Jun 2012: Chair of the Astronomical Association of Nanjing University
 
