@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuzhe Song's Site"
 title_separator          : "-"
 name                     : &name "Yuzhe Song"
-description              : &description "Physics PhD at CUNY Graduate Center and American Museum of Natural History"
+description              : &description "Postdoc at Swinburne & OzGrav"
 url                      : https://yuzhesong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuzhesong/yuzhesong.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuzhe Song"
   avatar           : "profile_pic.JPG"
-  bio              : "Physics PhD at CUNY Graduate Center and American Museum of Natural History, with a focus on gamma-ray astrophysics."
-  location         : "New York"
+  bio              : "Postdoc at Swinburne & OzGrav studying binary population synthesis with COMPAS."
+  location         : "Melbourne"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tjZgvoIAAAAJ&hl=en"
