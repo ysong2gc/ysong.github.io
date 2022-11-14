@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tjZgvoIAAAAJ&hl=en"
-  email            : ysong2@gc.cuny.edu
+  email            : yuzhesong@swin.edu.au
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -110,6 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "astrorobb"
+  mastodon         : "https://mastodon.online/@astrorobb"
   vine             :
   weibo            :
   xing             :
