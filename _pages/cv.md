@@ -20,6 +20,10 @@ Education
 
 Work experience
 ======
+* Oct 2022 - Current: Postdoctoral Research Fellow
+  * Centre for Astrophysics & Supercomputing, Swinburne University of Technology
+  * OzGrav, the ARC Centre of Excellence for Gravitational Wave Discovery
+
 * May 2019 - Aug 2021: Workshop Coordinator
   * AstroCom NYC
 
@@ -66,6 +70,7 @@ Grants & Awards
 
 Service and Leadership
 ======
+* Jun 2023 - Current: Equity, Diversity & Inclusion Committee, OzGrav
 * June 2021 - Current: Committee for Sexual-Orientation & Gender Minorities in Astrsonomy, American Astronomical Society 
 * January 2020 - May 2022: Astrophysics Seminar Committee, Department of Astrophysics, American Museum of Natural History
 * Summer 2019 - Aug 2021: Peer mentor for AstroCom scholars
